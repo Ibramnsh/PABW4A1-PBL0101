@@ -1,5 +1,8 @@
 # PABW4A1-PBL0101
 
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-green?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+
 ## 🚀 Instalasi
 1.  **Clone repositori ini:**
     ```bash
