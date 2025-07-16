@@ -33,3 +33,9 @@ Setelah instalasi selesai, Anda dapat menjalankan server pengembangan menggunaka
 
 ```bash
 uvicorn main:app --reload
+```
+
+Teknologi yang Digunakan
+Framework: FastAPI
+Server: Uvicorn
+Database: SQLite
